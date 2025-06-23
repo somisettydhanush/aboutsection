@@ -3,12 +3,12 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: 'poppins',sans-serif;
+    font-family: 'Poppins',sans-serif;
 }
 .section{
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(151, 155, 113);
+    background-color: rgb(214, 216, 207);
 }
 .container{
     width: 80%;
@@ -29,7 +29,7 @@
     width: 60%;
     height: auto;
 }
-.contemt-section .title{
+.content-section .title{
     text-transform: uppercase;
     font-size: 28px;
 
@@ -65,8 +65,8 @@
 .content-section .social{
     margin: 40px 40px;
 }
-.content-section.social i{
-    color: #a52a2a;
+.content-section .social i{
+    color: #2a34a5;
     font-size: 30px;
     padding: 0px 10px;
 
@@ -99,7 +99,7 @@
         width: 100%;
         height: auto;
         display: block;
-        margin: auto;;
+        margin: auto;
     }
     .content-section .title{
         text-align: center;
